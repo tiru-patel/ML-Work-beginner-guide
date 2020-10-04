@@ -1,0 +1,9 @@
+Flask==1.1.2
+requests==2.24.0
+numpy==1.18.5
+json5==0.9.5
+joblib==0.16.0
+Werkzeug
+pandas
+gunicorn
+sklearn
